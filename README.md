@@ -8,18 +8,18 @@
 
 
 # 效果    
-## 1.小程序: 大学之巅
+#### 1.小程序: 大学之巅
 ![](https://dxzd-js-css.oss-cn-hangzhou.aliyuncs.com/001.jpeg)        
 ![](https://dxzd-js-css.oss-cn-hangzhou.aliyuncs.com/002.jpeg)      
 也可以扫码体验：       
 ![](https://dxzd-js-css.oss-cn-hangzhou.aliyuncs.com/dxzd_minapp.jpg)       
 
 
-## 2.Web 网站: 大学之巅     
+#### 2.Web 网站: 大学之巅     
 网址： https://aissues.com/    
 
 
-## 3.Web 网站: 大学地图    
+#### 3.Web 网站: 大学地图    
 网址： https://aissues.com/university-map/
 
 
