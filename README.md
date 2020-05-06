@@ -9,8 +9,8 @@
 
 # 效果    
 ## 1.小程序: 大学之巅
-![](https://dxzd-js-css.oss-cn-hangzhou.aliyuncs.com/001.png)        
-![](https://dxzd-js-css.oss-cn-hangzhou.aliyuncs.com/002.png)      
+![](https://dxzd-js-css.oss-cn-hangzhou.aliyuncs.com/001.jpeg)        
+![](https://dxzd-js-css.oss-cn-hangzhou.aliyuncs.com/002.jpeg)      
 也可以扫码体验：       
 ![](https://dxzd-js-css.oss-cn-hangzhou.aliyuncs.com/dxzd_minapp.jpg)       
 
